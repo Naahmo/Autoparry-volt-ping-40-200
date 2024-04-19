@@ -7,3 +7,12 @@ To request whitelist
 3. copy any discord Channel ID you can see and paste it behide the comma
 4. outcome should look like this 3436540245975483393,1226193331868369963
 5. Click Request Authentication
+
+
+
+How to use the macro
+If you have whitelist
+Click on Namodog.exe
+Press F1 before talking to the balance
+If it say whitelisted starting macro
+wait for like 10 second before going in
