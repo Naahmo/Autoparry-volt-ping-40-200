@@ -12,7 +12,12 @@ To request whitelist
 
 How to use the macro
 If you have whitelist
-Click on Namodog.exe
+Click on Polished volt.exe
 Press F1 before talking to the balance
 If it say whitelisted starting macro
-wait for like 10 second before going in
+wait for 10 seconds
+talk to balance
+Lock in first person then stare at the sky like this clip
+https://streamable.com/adt1t4
+Note: you might take a hit or 2 (depends on your ping)
+Note: you will always take a hit first try of the day (the volt's light thingy wont load properly so yeah)
