@@ -11,13 +11,14 @@ To request whitelist
 
 
 How to use the macro
-If you have whitelist
-Click on Polished volt.exe
-Press F1 before talking to the balance
-If it say whitelisted starting macro
-wait for 10 seconds
-talk to balance
-Lock in first person then stare at the sky like this clip
-https://streamable.com/adt1t4
+
+1.If you have whitelist
+2.Click on Polished volt.exe
+3.Press F1 before talking to the balance
+4.If it say whitelisted starting macro
+5.wait for 10 seconds
+6.talk to balance
+7.Lock in first person then stare at the sky like this clip
+8.https://streamable.com/adt1t4
 Note: you might take a hit or 2 (depends on your ping)
 Note: you will always take a hit first try of the day (the volt's light thingy wont load properly so yeah)
