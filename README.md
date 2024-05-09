@@ -12,7 +12,9 @@ To request whitelist
 
 How to use the macro
 1.If you have whitelist
+
 2.Click on Polished volt.exe
+
 3.Press F1 before talking to the balance
 4.If it say whitelisted starting macro
 5.wait for 10 seconds
