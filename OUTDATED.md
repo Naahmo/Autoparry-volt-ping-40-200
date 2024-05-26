@@ -1,4 +1,4 @@
-This is not any kind of exploit script. Its an Autohotkey script. **DONT TRY DOWNLOADING IT WITHOUT WHITELIST YOU WILL WASTE YOUR TIME**
+This is for private version which has no use anymore (don't have to read this)
 
 
 To request whitelist
