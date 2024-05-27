@@ -29,17 +29,17 @@ Note: you will always take a hit first try of the day (the volt's light thingy w
 
 Note: this might work or not work if experience any problem dm me
 
+.
 
+.
 
+.
 
+.
 
+.
 
-
-
-
-
-
-
+.
 
 
 This is for private version which has no use anymore (don't have to read this)
