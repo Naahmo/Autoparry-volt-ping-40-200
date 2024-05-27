@@ -24,7 +24,9 @@ FOR PUBLIC VERSION (LASTEST)
 7.Enjoy your volt
 
 Note: you might take a hit or 2 (depends on your ping)
+
 Note: you will always take a hit first try of the day (the volt's light thingy wont load properly so yeah)
+
 Note: this might work or not work if experience any problem dm me
 
 
