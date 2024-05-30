@@ -8,7 +8,7 @@ PLEASE READ ALL OF THIS
 
 1.Get ingame
 
-2.Open the .exe file (Public xxx Ms Volt parry)
+2.Open the .exe file (Public xxx Ms Volt parry) **Note** please choose the one that has the closest value to your LOWEST average ping (you can check it in game with Shift+f3)
 
 3.Press dot/period(.) button to hide the leaderboard
 
