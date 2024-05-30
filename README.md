@@ -6,7 +6,7 @@ FOR PUBLIC VERSION (LASTEST)
 
 1.Get ingame
 
-2.Open the .exe file (Public 75~150 MS VOLT PARRY)
+2.Open the .exe file (Public xxx Ms Volt parry)
 
 3.Press dot/period(.) button to hide the leaderboard
 
