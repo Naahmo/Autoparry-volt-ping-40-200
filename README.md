@@ -2,13 +2,15 @@
 
 **DISCLAIMER** THIS IS NOT MALWARE/TROJAN WINDOW ALWAYS MISTAKE MACRO FOR THOSE TYPE OF VIRUUS
 
+**PROOF OF THIS WORKING** https://streamable.com/sdefsi
+
 If you have any question feel free to dm (N4mo. : 543670555975483393)
 
 PLEASE READ ALL OF THIS
 
 **INSTRUCTION** FOR PUBLIC VERSIONS
 
-1.Get ingame
+1.Get ingame Press E to pull your weapon
 
 2.Open the .exe file (Public xxx Ms Volt parry) **Note** please choose the one that has the closest value to your LOWEST average ping (you can check it in game with Shift+f3)
 
@@ -24,7 +26,7 @@ PLEASE READ ALL OF THIS
 
 6.Lock in first person then stare at the sky (90 degrees)
 
- Example of this https://streamable.com/adt1t4 (in this clip the program is still in early version so theres no minimizing the screen)
+ Example of the process https://streamable.com/sdefsi
  
 7.Enjoy your volt
 
