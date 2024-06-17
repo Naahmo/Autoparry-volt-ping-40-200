@@ -2,7 +2,7 @@
 
 **DISCLAIMER** THIS IS NOT MALWARE/TROJAN WINDOW ALWAYS MISTAKE MACRO FOR THOSE TYPE OF VIRUUS
 
-**PROOF OF THIS WORKING** https://streamable.com/sdefsi
+**PROOF OF THIS WORKING** https://youtu.be/Qe_pz8_YSgw?si=dUOurkTzLjHkKsFQ
 
 If you have any question feel free to dm (N4mo. : 543670555975483393)
 
@@ -26,11 +26,11 @@ PLEASE READ ALL OF THIS
 
 6.Lock in first person then stare at the sky (90 degrees)
 
- Example of the process https://streamable.com/sdefsi
+ Example of the process https://youtu.be/Qe_pz8_YSgw?si=dUOurkTzLjHkKsFQ
  
 7.Enjoy your volt
 
-Note: you might take a hit or 2 (depends on your ping)
+Note: you might take a hit or 2 (depends on your ping if its very spiky you will just die)
 
 Note: you will always take a hit first try of the day (the volt's light thingy wont load properly so yeah)
 
